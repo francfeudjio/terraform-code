@@ -1,0 +1,5 @@
+ami = "ami-00db75007d6c5c578"
+region = "us-east-1"
+keyname = "stevin"
+instanceType = "t2.nano"
+Name = "Test-server"
